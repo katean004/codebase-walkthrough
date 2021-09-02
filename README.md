@@ -10,10 +10,6 @@
   - [Usage](#usage)
   - [License](#license)
 
-
-## Google Doc
-- 
-
 ## Description
 A Content Management System that helps employers to manage (add, view, and update) employee information such as their name, department, role, salary, and their employee id. 
 
